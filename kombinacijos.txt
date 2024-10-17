@@ -6,5 +6,5 @@ ctrl + y - veiksmas i prieki
 ctrl + f - paieska faile
 shift + alt + up - kopijuoti eilute i virsu
 shift + alt + down - kopijuoti eilute i apacia
-
+jie bus change
 
